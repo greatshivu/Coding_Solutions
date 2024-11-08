@@ -1,0 +1,24 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore build output
+*.dll
+*.exe
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.suo
+*.csproj.user
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore Visual Studio cache files
+.vs/
+.vscode/
+
+# Ignore NuGet packages
+packages/
